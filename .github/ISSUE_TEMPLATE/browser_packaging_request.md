@@ -1,6 +1,6 @@
 ---
 name: "Browser Packaging Request"
-description: "Request packaging of Tachi Code for a new browser."
+about: "Request packaging of Tachi Code for a new browser."
 title: "[Packaging Request] Support for <Browser Name>"
 labels: "packaging"
 assignees: ''
