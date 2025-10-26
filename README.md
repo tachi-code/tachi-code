@@ -4,28 +4,28 @@
 
 ## Features
 
-### 🔧 Interactive Source Files Everywhere
+### Interactive Source Files Everywhere
 Automatically detects source files in your browser and opens them in a powerful code editor. Whether you're viewing an API response, source code on GitHub, or any other source file, Tachi Code transforms your browser tab into a fully functional editing environment.
 
-### ✏️ Rich Editing Experience
+### Rich Editing Experience
 - Built on the **Monaco Editor** (the same editor that powers Visual Studio Code)
 - LSP support for select languages
 - High-quality syntax highlighting powered by **Shiki**
 - Support for a wide range of programming languages
 
-### 🎯 Contextual Integrations
+### Contextual Integrations
 - Compare text with the clipboard
 - Edit SVG files directly from your browser
 - View page or selected element source in Tachi Code
 - Open selected text in Tachi Code for quick modifications
 
-### 👀 Live Preview
+### Live Preview
 Real-time preview support for:
 - Markdown files
 - Mermaid diagrams
 - SVG files
 
-### 🎨 Deep Customization 
+### Deep Customization 
 - Includes several built-in themes
 - Additional themes available in the [Tachi Code themes repository](https://github.com/tachi-code/themes)
 - Fully customizable editor experience
@@ -68,10 +68,10 @@ This repository serves as the public issue tracker for Tachi Code. Since Tachi C
 
 ## Links
 
-- 🌐 [Official Website](https://tachicode.com)
-- 🚀 [Try Online](https://tachicode.dev)
-- 🎨 [Themes Repository](https://github.com/tachi-code/themes)
-- 📚 [Documentation](https://tachicode.com/docs)
+- [Official Website](https://tachicode.com)
+- [Try Online](https://tachicode.dev)
+- [Themes Repository](https://github.com/tachi-code/themes)
+- [Documentation](https://tachicode.com/docs)
 
 ---
 
